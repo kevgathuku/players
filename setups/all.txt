@@ -38,7 +38,7 @@ north-america/mx-mexico/players
 north-america/us-united-states/players
 
 pacific/au-australia/players
-# pacific/pf-tahiti/players
+pacific/pf-tahiti/players
 
 south-america/ar-argentina/players
 south-america/br-brazil/players-1970s
