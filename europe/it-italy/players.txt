@@ -57,7 +57,7 @@ Giovinco|Sebastian Giovinco,   26 Jan 1987
 Gilardino|Alberto Gilardino,   5 Jul 1982
 El Shaarawy|Stephan El Shaarawy,   27 Oct 1992
 Cerci|Alessio Cerci,   23 Jul 1987
-Antonio Cassano,  12 July 1982   ## Italy Parma
+Antonio Cassano,  12 Jul 1982   ## Italy Parma
 Giuseppe Rossi,  1 Feb 1987      ## Italy Fiorentina
 Mattia Destro,   20 Mar 1991     ## Italy Roma
 Lorenzo Insigne,   4 Jun 1991    ## Italy Napoli

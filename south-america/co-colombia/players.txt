@@ -55,5 +55,5 @@ Martínez|Jackson Martínez|Jackson Arley MARTINEZ VALENCIA, 3 Oct 1986
 Moreno|Dayro Moreno|Dayro Mauricio MORENO GALINDO, 16 Sep 1985
 Carlos Bacca,    8 Sep 1986      ## Spain Sevilla
 Víctor Ibarbo,   19 May 1990    ## Italy Cagliari
-Luis Muriel,     18 April 1991  ## Italy Udinese
+Luis Muriel,     18 Apr 1991  ## Italy Udinese
 

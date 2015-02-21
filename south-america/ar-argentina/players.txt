@@ -54,8 +54,8 @@ Messi|Lionel Messi|Lionel Andres MESSI, 24 Jun 1987
 Agüero|Sergio Agüero|Sergio Leonel AGUERO DEL CASTILLO, 2 Jun 1988
 Higuaín|Gonzalo Higuaín|Gonzalo Gerardo HIGUAIN, 10 Dec 1987
 Lavezzi|Ezequiel Lavezzi|Ezequiel Iván LAVEZZI, 3 May 1985
-Rodrigo Palacio,  5 February 1982     ## Italy Internazionale
-Franco Di Santo,  7 April 1989        ## Germany Werder Bremen
+Rodrigo Palacio,  5 Feb 1982     ## Italy Internazionale
+Franco Di Santo,  7 Apr 1989        ## Germany Werder Bremen
 
 Carlos Tévez,     5 Feb 1984
 

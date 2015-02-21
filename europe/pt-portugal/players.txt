@@ -35,7 +35,7 @@ Fábio Espinho,    18 Aug 1985
 
 ## FW
 
-Cristiano Ronaldo,   5 Febr 1985   ## Spain Real Madrid
+Cristiano Ronaldo,   5 Feb 1985   ## Spain Real Madrid
 Hélder Postiga,   2 Aug 1982       ##   Italy Lazio
 Hugo Almeida,   23 May 1984        ##   Turkey Beşiktaş
 Éder,   22 Dec 1987                ##  Portugal Braga
