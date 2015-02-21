@@ -27,11 +27,11 @@ Dedryck Boyata,   28 Nov 1990
 Mousa Dembélé,   16 Jul 1987    ##   England Tottenham Hotspur
 Marouane Fellaini,   22 Nov 1987   ##   England Manchester United
 Axel Witsel,   12 Jan 1989    ##   Russia Zenit Saint Petersburg
-Kevin Mirallas,   5 Oct1987  ##   England Everton
+Kevin Mirallas,   5 Oct 1987  ##   England Everton
 Eden Hazard,   7 Jan 1991     ##   England Chelsea
 Steven Defour,   15 Apr 1988    ##   Portugal Porto
 Kevin De Bruyne,   28 Jun 1991   ##   Germany VfL Wolfsburg
-Nacer Chadli,   2 Oct1989    ##   England Tottenham Hotspur
+Nacer Chadli,   2 Oct 1989    ##   England Tottenham Hotspur
 Adnan Januzaj,   5 Feb 1995  ##   England Manchester United
 
 
